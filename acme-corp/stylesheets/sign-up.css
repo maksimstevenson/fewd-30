@@ -97,3 +97,17 @@ nav ol li {
          display: block;
 
     }
+    td {
+      padding: 5px 10px;
+    }
+    td input{
+      display: block;
+         max-width: 250px;
+         margin-top: 10px;
+         
+         border: 2px solid orange;
+         box-shadow:2px 2px 0 #08E8DE;
+         border-radius: 5px;
+         padding: 5px 10px;
+    }
+    
